@@ -1,0 +1,5 @@
+Tue Feb 20 22:20:22 AEDT 2018 
+
+ltconfig : loosely-typed configuration system
+: use local copy ./ltconfig
+
