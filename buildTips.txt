@@ -6,3 +6,14 @@ ltconfig : loosely-typed configuration system
 ./configure --help
 ./configure --version
 
+nls            Native Language Support
+
+./configure 
+ ./configure --help
+ ./configure --host=HOST
+ ./configure --host=BUILD
+ ./configure --host=TARGET
+ ./configure 
+ ./configure --help
+./makecopyright
+
