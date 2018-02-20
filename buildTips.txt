@@ -1,5 +1,8 @@
 Tue Feb 20 22:20:22 AEDT 2018 
-
+GTK+, which stands for the Gimp ToolKit
 ltconfig : loosely-typed configuration system
 : use local copy ./ltconfig
+
+./configure --help
+./configure --version
 
